@@ -57,11 +57,11 @@ Bow and Arrow Game is a 2D archery simulation developed using the Processing fra
 ## Screenshots
 
 <p align="center">
+  <img src="B_A/data/imgs/screenshots/main_menu.png" alt="Main Menu Screenshot" width="600"/>
+  <br>
   <img src="B_A/data/imgs/screenshots/gameplay1.png" alt="Gameplay Screenshot 1" width="600"/>
   <br>
   <img src="B_A/data/imgs/screenshots/gameplay2.png" alt="Gameplay Screenshot 2" width="600"/>
-  <br>
-  <img src="B_A/data/imgs/screenshots/main_menu.png" alt="Main Menu Screenshot" width="600"/>
 </p>
 
 ---
