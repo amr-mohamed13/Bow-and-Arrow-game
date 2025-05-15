@@ -15,7 +15,6 @@
 - [Development](#development)
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
@@ -57,11 +56,11 @@ Bow and Arrow Game is a 2D archery simulation developed using the Processing fra
 ## Screenshots
 
 <p align="center">
-  <img src="B_A/data/imgs/screenshots/main_menu.png" alt="Main Menu Screenshot" width="300"/>
+  <img src="B_A/data/imgs/screenshots/main_menu.png" alt="Main Menu Screenshot" width="500"/>
   <br>
-  <img src="B_A/data/imgs/screenshots/gameplay1.png" alt="Gameplay Screenshot 1" width="300"/>
+  <img src="B_A/data/imgs/screenshots/gameplay1.png" alt="Gameplay Screenshot 1" width="500"/>
   <br>
-  <img src="B_A/data/imgs/screenshots/gameplay2.png" alt="Gameplay Screenshot 2" width="300"/>
+  <img src="B_A/data/imgs/screenshots/gameplay2.png" alt="Gameplay Screenshot 2" width="500"/>
 </p>
 
 ---
@@ -137,23 +136,6 @@ bow-and-arrow-game/
 - (Optional) Physics Library
 - Java Development Kit (JDK)
 - Git
-
----
-
-## Contributing
-
-Contributions are welcome. To contribute:
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes with clear messages
-4. Push to your branch
-5. Open a Pull Request
-
-**Guidelines:**
-- Follow the existing code style
-- Add comments for complex logic
-- Update documentation as needed
-- Test your changes
 
 ---
 
